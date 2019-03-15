@@ -1,0 +1,9 @@
+.ligne{
+    height: 1px;
+    background: white;
+    display: block;
+}
+.card-horizontal {
+    display: flex;
+    flex: 1 1 auto;
+}
